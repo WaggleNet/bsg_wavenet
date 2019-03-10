@@ -1,1 +1,1 @@
-# bsg_wavenet
+# WaggleNet/BSG-WaveNet
