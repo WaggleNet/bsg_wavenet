@@ -1,7 +1,7 @@
 # WaggleNet/BSG-WaveNet
 
 
-references:
-https://deepmind.com/blog/wavenet-generative-model-raw-audio/
-https://github.com/ibab/tensorflow-wavenet
+references:\n
+https://deepmind.com/blog/wavenet-generative-model-raw-audio/ \n
+https://github.com/ibab/tensorflow-wavenet \n
 https://blog.csdn.net/ljp1919/article/details/52764913
